@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pdf-text": "^0.4.0"
+  },
+  "name": "pdf-text-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
